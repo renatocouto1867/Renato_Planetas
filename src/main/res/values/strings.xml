@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Renato_Planetas</string>
+
+    <string-array name="mercurio">
+        <item>Mercúrio</item>
+        <item>Menor planeta do Sistema Solar</item>
+        <item>Superfície coberta por crateras</item>
+        <item>Sem atmosfera</item>
+    </string-array>
+
+    <string-array name="venus">
+        <item>Vênus</item>
+        <item>Coberto por nuvens densas</item>
+        <item>Mais quente que a Terra</item>
+        <item>Vulcanismo ativo</item>
+    </string-array>
+
+    <string-array name="terra">
+        <item>Terra</item>
+        <item>Único planeta conhecido por abrigar vida</item>
+        <item>Possui água líquida e uma atmosfera rica em oxigênio</item>
+        <item>Grande diversidade de paisagens</item>
+    </string-array>
+
+    <string-array name="marte">
+        <item>Marte</item>
+        <item>Superfície avermelhada</item>
+        <item>Possui vulcões e calotas polares</item>
+        <item>Possibilidade de vida no passado</item>
+    </string-array>
+
+    <string-array name="jupter">
+        <item>Júpter</item>
+        <item>Maior planeta do Sistema Solar</item>
+        <item>Gigante gasoso com uma forte campo magnético</item>
+        <item>Possui um sistema de anéis</item>
+    </string-array>
+
+    <string-array name="saturno">
+        <item>Saturno</item>
+        <item>Famoso por seus anéis</item>
+        <item>Gigante gasoso similar a Júpiter</item>
+        <item>Possui uma grande lua, Titã</item>
+    </string-array>
+
+    <string-array name="urano">
+        <item>Urano</item>
+        <item>Gigante gasoso com uma inclinação axial peculiar</item>
+        <item>Possui uma atmosfera composta principalmente de hidrogênio, hélio e metano</item>
+        <item>Várias luas, incluindo Miranda, Ariel, Umbriel, Titânia e Oberon</item>
+    </string-array>
+
+    <string-array name="netuno">
+        <item>Netuno</item>
+        <item>Gigante gasoso com uma atmosfera turbulenta</item>
+        <item>Possui uma Grande Mancha Escura, uma tempestade gigante</item>
+        <item>Várias luas, incluindo Tritão, Nereida, Proteu e Larissa</item>
+    </string-array>
+
+    <string-array name="planetas" comentario="ia fazer assim mas percebi que poderia ter problemas na indição do caminho das imagens">
+        <item>Mercúrio;Menor planeta do Sistema Solar;Superfície coberta por crateras;Sem atmosfera;R.drawable.mercurio</item>
+        <item>Vênus;Coberto por nuvens densas;Mais quente que a Terra;Vulcanismo ativo;R.drawable.venus</item>
+        <item>Terra;Único planeta conhecido por abrigar vida;Possui água líquida e uma atmosfera rica em oxigênio;Grande diversidade de paisagens;R.drawable.terra</item>
+        <item>Marte;Superfície avermelhada;Possui vulcões e calotas polares;Possibilidade de vida no passado;R.drawable.marte</item>
+        <item>Júpter;Maior planeta do Sistema Solar;Gigante gasoso com uma forte campo magnético;Possui um sistema de anéis;R.drawable.jupiter</item>
+        <item>Saturno;Famoso por seus anéis;Gigante gasoso similar a Júpiter;Possui uma grande lua, Titã;R.drawable.saturno</item>
+        <item>Urano;Gigante gasoso com uma inclinação axial peculiar;Possui uma atmosfera composta principalmente de hidrogênio, hélio e metano;Várias luas, incluindo Miranda, Ariel, Umbriel, Titânia e Oberon;R.drawable.urano</item>
+        <item>Neturno;Gigante gasoso com uma atmosfera turbulenta;Possui uma Grande Mancha Escura, uma tempestade gigante;Várias luas, incluindo Tritão, Nereida, Proteu e Larissa;R.drawable.netuno</item>
+    </string-array>
+
+
+</resources>
